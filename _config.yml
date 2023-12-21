@@ -85,7 +85,7 @@ author:
   bio              : "欢迎访问我的个人主页"
   location         : "CHINA"
   employer         :
-  百度学术         :  "https://xueshu.baidu.com/scholarID/CN-B87421AJ"
+  baiduscholar     : "https://xueshu.baidu.com/scholarID/CN-B87421AJ"
   googlescholar    : "https://scholar.google.com/citations?hl=ja&user=fX3OYbkAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
